@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531151859 source:c:\users\alina\desktop\it\stroustrup\chapter_4\ex_2\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
