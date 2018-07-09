@@ -19,6 +19,6 @@ int main()
     cout << "Sum of all distances: " << sum << endl;
     cout << "Maximum distance: " << cities.back() << endl;
     cout << "Minimum distance: " << cities.front() << endl;
-    cout << "Average distance:  " << sum/cities.size()  << endl;
+    cout << "Average distance:  " << sum/cities.size() << endl;
     return 0;
 }
